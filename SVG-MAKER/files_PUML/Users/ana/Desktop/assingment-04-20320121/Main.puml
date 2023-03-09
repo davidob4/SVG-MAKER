@@ -1,0 +1,5 @@
+@startuml
+class main {
+    + {static} Main(args:string[]) : void
+}
+@enduml

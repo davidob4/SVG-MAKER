@@ -1,0 +1,60 @@
+E:/VS WORK/cs264-lab02/bin/Debug/net6.0/assignment-03-20320121.exe
+E:/VS WORK/cs264-lab02/bin/Debug/net6.0/assignment-03-20320121.deps.json
+E:/VS WORK/cs264-lab02/bin/Debug/net6.0/assignment-03-20320121.runtimeconfig.json
+E:/VS WORK/cs264-lab02/bin/Debug/net6.0/assignment-03-20320121.dll
+E:/VS WORK/cs264-lab02/bin/Debug/net6.0/assignment-03-20320121.pdb
+E:/VS WORK/cs264-lab02/obj/Debug/net6.0/assignment-03-20320121.csproj.AssemblyReference.cache
+E:/VS WORK/cs264-lab02/obj/Debug/net6.0/assignment-03-20320121.GeneratedMSBuildEditorConfig.editorconfig
+E:/VS WORK/cs264-lab02/obj/Debug/net6.0/assignment-03-20320121.AssemblyInfoInputs.cache
+E:/VS WORK/cs264-lab02/obj/Debug/net6.0/assignment-03-20320121.AssemblyInfo.cs
+E:/VS WORK/cs264-lab02/obj/Debug/net6.0/assignment-03-20320121.csproj.CoreCompileInputs.cache
+E:/VS WORK/cs264-lab02/obj/Debug/net6.0/assignment-03-20320121.dll
+E:/VS WORK/cs264-lab02/obj/Debug/net6.0/refint/assignment-03-20320121.dll
+E:/VS WORK/cs264-lab02/obj/Debug/net6.0/assignment-03-20320121.pdb
+E:/VS WORK/cs264-lab02/obj/Debug/net6.0/assignment-03-20320121.genruntimeconfig.cache
+E:/VS WORK/cs264-lab02/obj/Debug/net6.0/ref/assignment-03-20320121.dll
+/Users/ana/Downloads/cs264-lab02-3/bin/Debug/net6.0/assignment-03-20320121
+/Users/ana/Downloads/cs264-lab02-3/bin/Debug/net6.0/assignment-03-20320121.deps.json
+/Users/ana/Downloads/cs264-lab02-3/bin/Debug/net6.0/assignment-03-20320121.runtimeconfig.json
+/Users/ana/Downloads/cs264-lab02-3/bin/Debug/net6.0/assignment-03-20320121.dll
+/Users/ana/Downloads/cs264-lab02-3/bin/Debug/net6.0/assignment-03-20320121.pdb
+/Users/ana/Downloads/cs264-lab02-3/obj/Debug/net6.0/assignment-03-20320121.csproj.AssemblyReference.cache
+/Users/ana/Downloads/cs264-lab02-3/obj/Debug/net6.0/assignment-03-20320121.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ana/Downloads/cs264-lab02-3/obj/Debug/net6.0/assignment-03-20320121.AssemblyInfoInputs.cache
+/Users/ana/Downloads/cs264-lab02-3/obj/Debug/net6.0/assignment-03-20320121.AssemblyInfo.cs
+/Users/ana/Downloads/cs264-lab02-3/obj/Debug/net6.0/assignment-03-20320121.csproj.CoreCompileInputs.cache
+/Users/ana/Downloads/cs264-lab02-3/obj/Debug/net6.0/assignment-03-20320121.dll
+/Users/ana/Downloads/cs264-lab02-3/obj/Debug/net6.0/refint/assignment-03-20320121.dll
+/Users/ana/Downloads/cs264-lab02-3/obj/Debug/net6.0/assignment-03-20320121.pdb
+/Users/ana/Downloads/cs264-lab02-3/obj/Debug/net6.0/assignment-03-20320121.genruntimeconfig.cache
+/Users/ana/Downloads/cs264-lab02-3/obj/Debug/net6.0/ref/assignment-03-20320121.dll
+/Users/ana/Desktop/cs264-lab02-3/bin/Debug/net6.0/assignment-03-20320121
+/Users/ana/Desktop/cs264-lab02-3/bin/Debug/net6.0/assignment-03-20320121.deps.json
+/Users/ana/Desktop/cs264-lab02-3/bin/Debug/net6.0/assignment-03-20320121.runtimeconfig.json
+/Users/ana/Desktop/cs264-lab02-3/bin/Debug/net6.0/assignment-03-20320121.dll
+/Users/ana/Desktop/cs264-lab02-3/bin/Debug/net6.0/assignment-03-20320121.pdb
+/Users/ana/Desktop/cs264-lab02-3/obj/Debug/net6.0/assignment-03-20320121.csproj.AssemblyReference.cache
+/Users/ana/Desktop/cs264-lab02-3/obj/Debug/net6.0/assignment-03-20320121.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ana/Desktop/cs264-lab02-3/obj/Debug/net6.0/assignment-03-20320121.AssemblyInfoInputs.cache
+/Users/ana/Desktop/cs264-lab02-3/obj/Debug/net6.0/assignment-03-20320121.AssemblyInfo.cs
+/Users/ana/Desktop/cs264-lab02-3/obj/Debug/net6.0/assignment-03-20320121.csproj.CoreCompileInputs.cache
+/Users/ana/Desktop/cs264-lab02-3/obj/Debug/net6.0/assignment-03-20320121.dll
+/Users/ana/Desktop/cs264-lab02-3/obj/Debug/net6.0/refint/assignment-03-20320121.dll
+/Users/ana/Desktop/cs264-lab02-3/obj/Debug/net6.0/assignment-03-20320121.pdb
+/Users/ana/Desktop/cs264-lab02-3/obj/Debug/net6.0/assignment-03-20320121.genruntimeconfig.cache
+/Users/ana/Desktop/cs264-lab02-3/obj/Debug/net6.0/ref/assignment-03-20320121.dll
+/Users/ana/Desktop/assingment-04-20320121/bin/Debug/net6.0/assignment-03-20320121
+/Users/ana/Desktop/assingment-04-20320121/bin/Debug/net6.0/assignment-03-20320121.deps.json
+/Users/ana/Desktop/assingment-04-20320121/bin/Debug/net6.0/assignment-03-20320121.runtimeconfig.json
+/Users/ana/Desktop/assingment-04-20320121/bin/Debug/net6.0/assignment-03-20320121.dll
+/Users/ana/Desktop/assingment-04-20320121/bin/Debug/net6.0/assignment-03-20320121.pdb
+/Users/ana/Desktop/assingment-04-20320121/obj/Debug/net6.0/assignment-03-20320121.csproj.AssemblyReference.cache
+/Users/ana/Desktop/assingment-04-20320121/obj/Debug/net6.0/assignment-03-20320121.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ana/Desktop/assingment-04-20320121/obj/Debug/net6.0/assignment-03-20320121.AssemblyInfoInputs.cache
+/Users/ana/Desktop/assingment-04-20320121/obj/Debug/net6.0/assignment-03-20320121.AssemblyInfo.cs
+/Users/ana/Desktop/assingment-04-20320121/obj/Debug/net6.0/assignment-03-20320121.csproj.CoreCompileInputs.cache
+/Users/ana/Desktop/assingment-04-20320121/obj/Debug/net6.0/assignment-03-20320121.dll
+/Users/ana/Desktop/assingment-04-20320121/obj/Debug/net6.0/refint/assignment-03-20320121.dll
+/Users/ana/Desktop/assingment-04-20320121/obj/Debug/net6.0/assignment-03-20320121.pdb
+/Users/ana/Desktop/assingment-04-20320121/obj/Debug/net6.0/assignment-03-20320121.genruntimeconfig.cache
+/Users/ana/Desktop/assingment-04-20320121/obj/Debug/net6.0/ref/assignment-03-20320121.dll

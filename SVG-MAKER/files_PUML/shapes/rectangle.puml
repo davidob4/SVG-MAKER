@@ -1,0 +1,11 @@
+@startuml
+class rectangle {
+    + s : string = "Rectangle"
+    + getShape() : string
+    + rectangle()
+    + rectangle(x:int, y:int, width:int, height:int, stroke:string, strokewidth:int, fill:string)
+    + getSVG() : string
+    + getID() : string
+}
+shapes <|-- rectangle
+@enduml

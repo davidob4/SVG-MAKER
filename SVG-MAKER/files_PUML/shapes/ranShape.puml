@@ -1,0 +1,5 @@
+@startuml
+class ranShape {
+    + {static} genRanShape(CanvasX:int, CanvasY:int) : shapes
+}
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+class UpdateCommand {
+    + UpdateCommand(c:Canvas, s:shapes, n:int)
+    + Execute() : void
+    + UnExecute() : void
+}
+Command <|-- UpdateCommand
+@enduml

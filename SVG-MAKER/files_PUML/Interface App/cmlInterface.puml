@@ -1,0 +1,9 @@
+@startuml
+class cmlInterface {
+    + cmlInterface(canvas:Canvas)
+    + FirstStep(canvas:Canvas) : void
+    + addShapeMenu(canvas:Canvas) : shapes
+    + deleteShapeMenu(canvas:Canvas) : int
+    + updateShapeMenu(canvas:Canvas) : shapes
+}
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+class DeleteShapeCommand {
+    + DeleteShapeCommand(c:Canvas, n:int)
+    + Execute() : void
+    + UnExecute() : void
+}
+Command <|-- DeleteShapeCommand
+@enduml

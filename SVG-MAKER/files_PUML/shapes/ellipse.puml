@@ -1,0 +1,11 @@
+@startuml
+class ellipse {
+    + s : string = "Ellipse"
+    + getShape() : string
+    + ellipse()
+    + ellipse(rx:int, ry:int, cx:int, cy:int, stroke:string, strokewidth:int, fill:string)
+    + getSVG() : string
+    + getID() : string
+}
+shapes <|-- ellipse
+@enduml

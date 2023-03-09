@@ -1,0 +1,5 @@
+<svg height="1000" width="1000">
+<ellipse cx="511" cy="399" rx="59" ry="43"  stroke="blue" stroke-width="3" fill="purple"/>
+<ellipse cx="459" cy="683" rx="43" ry="53"  stroke="blue" stroke-width="4" fill="blue"/>
+<circle cx="793" cy="399" r="16" stroke="black" stroke-width="2" fill="blue"/>
+</svg>

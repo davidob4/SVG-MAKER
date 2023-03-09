@@ -1,0 +1,7 @@
+@startuml
+class User {
+    + addCommand(command:Command) : void
+    + undo() : void
+    + redo() : void
+}
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+class polyGon {
+    + s : string = "PolyGon"
+    + getShape() : string
+    + polyGon()
+    + polyGon(l:List<line>, stroke:string, strokewidth:int, fill:string)
+    + getSVG() : string
+    + getID() : string
+}
+shapes <|-- polyGon
+@enduml

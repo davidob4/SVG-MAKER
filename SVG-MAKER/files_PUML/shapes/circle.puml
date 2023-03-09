@@ -1,0 +1,10 @@
+@startuml
+class circle {
+    + getShape() : string
+    + circle()
+    + circle(rad:int, cx:int, cy:int, stroke:string, strokewidth:int, fill:string)
+    + getSVG() : string
+    + getID() : string
+}
+shapes <|-- circle
+@enduml

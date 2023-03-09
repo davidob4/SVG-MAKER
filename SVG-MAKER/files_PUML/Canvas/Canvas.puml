@@ -1,0 +1,15 @@
+@startuml
+class Canvas {
+    + Canvas(width:int, height:int)
+    + addShape(s:shapes) : void
+    + addShapeAtIndex(s:shapes, i:int) : void
+    + removeShape(id:string) : void
+    + updateShape(id:string, s:shapes) : void
+    + reBuildSvg(els:List<shapes>) : void
+    + getSVG() : string
+    + elsLength() : int
+    + elsReturn(i:int) : shapes
+    + getWidth() : int
+    + getHeight() : int
+}
+@enduml

@@ -1,0 +1,11 @@
+@startuml
+class polyLine {
+    + s : string = "PolyLine"
+    + getShape() : string
+    + polyLine()
+    + polyLine(l:List<line>, stroke:string, strokewidth:int)
+    + getSVG() : string
+    + getID() : string
+}
+shapes <|-- polyLine
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+class AddRanShapeCommand {
+    + AddRanShapeCommand(c:Canvas)
+    + Execute() : void
+    + UnExecute() : void
+}
+Command <|-- AddRanShapeCommand
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+class AddShapeCommand {
+    + AddShapeCommand(c:Canvas, s:shapes)
+    + Execute() : void
+    + UnExecute() : void
+}
+Command <|-- AddShapeCommand
+@enduml

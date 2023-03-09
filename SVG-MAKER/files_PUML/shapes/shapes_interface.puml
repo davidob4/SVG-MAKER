@@ -1,0 +1,7 @@
+@startuml
+interface shapes {
+    getShape() : string
+    getSVG() : string
+    getID() : string
+}
+@enduml

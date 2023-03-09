@@ -1,0 +1,25 @@
+@startuml
+!include ./Users/ana/Desktop/assingment-04-20320121/Main.puml
+!include ./command pattern/User.puml
+!include ./Interface App/initializer.puml
+!include ./Interface App/cmlInterface.puml
+!include ./shapes/circle.puml
+!include ./shapes/line.puml
+!include ./shapes/polygon.puml
+!include ./shapes/shapes_interface.puml
+!include ./shapes/ellipse.puml
+!include ./shapes/rectangle.puml
+!include ./shapes/ranShape.puml
+!include ./shapes/polyline.puml
+!include ./Canvas/Canvas.puml
+!include ./commands/AddShapeCommand.puml
+!include ./commands/UpdateCommand.puml
+!include ./commands/AddRanShapeCommand.puml
+!include ./commands/Command.puml
+!include ./commands/DeleteShapeCommand.puml
+!include ./obj/Debug/net6.0/cs264-lab02.GlobalUsings.g.puml
+!include ./obj/Debug/net6.0/assignment-03-20320121.AssemblyInfo.puml
+!include ./obj/Debug/net6.0/cs264-lab02.AssemblyInfo.puml
+!include ./obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.puml
+!include ./obj/Debug/net6.0/assignment-03-20320121.GlobalUsings.g.puml
+@enduml

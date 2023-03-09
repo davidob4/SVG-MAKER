@@ -1,0 +1,6 @@
+@startuml
+class initializer {
+    + initializer()
+    + stepOne() : void
+}
+@enduml

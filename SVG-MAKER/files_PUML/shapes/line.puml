@@ -1,0 +1,15 @@
+@startuml
+class line {
+    + s : string = "Line"
+    + getShape() : string
+    + line()
+    + line(x1:int, y1:int, x2:int, y2:int, stroke:string, strokewidth:int)
+    + getx1() : int
+    + gety1() : int
+    + getx2() : int
+    + gety2() : int
+    + getSVG() : string
+    + getID() : string
+}
+shapes <|-- line
+@enduml
